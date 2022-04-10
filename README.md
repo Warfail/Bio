@@ -8,7 +8,7 @@ Tools
 
 Languages
 
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=PHP&logoColor=white) ![](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=MySQL&logoColor=1E90FF)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=PHP&logoColor=white) ![](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=MySQL&logoColor=blue)
 ___
 
 Current stats
