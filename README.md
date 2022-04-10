@@ -5,6 +5,15 @@ Tools
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
+___
+
+This is the programming language that I often use
+
+<a href="https://github.com/Warfail">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warfail&theme=radical&hide=glsl,python" />
+</a>
+
+
 
 Languages
 
